@@ -29,7 +29,7 @@ const compileAndRun = async (language, code, input) => {
     method: 'POST',
     url: 'https://onecompiler-apis.p.rapidapi.com/api/v1/run',
     headers: {
-      'x-rapidapi-key': '72f8607dd9mshd05b95303be9778p1d223cjsn07a968dca1c4',
+      'x-rapidapi-key': '',
       'x-rapidapi-host': 'onecompiler-apis.p.rapidapi.com',
       'Content-Type': 'application/json'
     },
